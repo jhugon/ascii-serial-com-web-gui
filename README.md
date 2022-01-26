@@ -1,6 +1,6 @@
 # ascii-serial-com-web-gui
 
-A web-based GUI for ascii-serial-com
+A web-based GUI for [ascii-serial-com](https://github.com/jhugon/ascii-serial-com)
 
 ## Ideas
 
